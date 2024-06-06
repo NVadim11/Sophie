@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Sophie/static/css/main.d1ac7bbe.css",
+    "main.js": "/Sophie/static/js/main.8e71f812.js",
+    "static/js/791.d10fe51d.chunk.js": "/Sophie/static/js/791.d10fe51d.chunk.js",
+    "static/js/123.0bab8f01.chunk.js": "/Sophie/static/js/123.0bab8f01.chunk.js",
+    "static/js/578.f923bce2.chunk.js": "/Sophie/static/js/578.f923bce2.chunk.js",
+    "static/js/544.f9f97adc.chunk.js": "/Sophie/static/js/544.f9f97adc.chunk.js",
+    "static/js/539.9b0c5a7b.chunk.js": "/Sophie/static/js/539.9b0c5a7b.chunk.js",
+    "static/media/sophia_preload.png": "/Sophie/static/media/sophia_preload.70bb548d0567a361a65d.png",
+    "static/media/Orbitron-Medium.ttf": "/Sophie/static/media/Orbitron-Medium.1a5c8e9651ff9236dea1.ttf",
+    "static/media/Orbitron-SemiBold.ttf": "/Sophie/static/media/Orbitron-SemiBold.f21825bb4c4dcaf265f2.ttf",
+    "static/media/Orbitron-Regular.ttf": "/Sophie/static/media/Orbitron-Regular.1f498717ba081693370a.ttf",
+    "static/media/Orbitron-ExtraBold.ttf": "/Sophie/static/media/Orbitron-ExtraBold.87a7bd2eb4b9e1963d8a.ttf",
+    "static/media/Orbitron-Bold.ttf": "/Sophie/static/media/Orbitron-Bold.a0309d1fe75d16b6f13a.ttf",
+    "static/media/Orbitron-Black.ttf": "/Sophie/static/media/Orbitron-Black.cc6a72b8f7260af1d4ae.ttf",
+    "index.html": "/Sophie/index.html",
+    "main.d1ac7bbe.css.map": "/Sophie/static/css/main.d1ac7bbe.css.map",
+    "main.8e71f812.js.map": "/Sophie/static/js/main.8e71f812.js.map",
+    "791.d10fe51d.chunk.js.map": "/Sophie/static/js/791.d10fe51d.chunk.js.map",
+    "123.0bab8f01.chunk.js.map": "/Sophie/static/js/123.0bab8f01.chunk.js.map",
+    "578.f923bce2.chunk.js.map": "/Sophie/static/js/578.f923bce2.chunk.js.map",
+    "544.f9f97adc.chunk.js.map": "/Sophie/static/js/544.f9f97adc.chunk.js.map",
+    "539.9b0c5a7b.chunk.js.map": "/Sophie/static/js/539.9b0c5a7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1ac7bbe.css",
+    "static/js/main.8e71f812.js"
+  ]
+}
